@@ -1,0 +1,10 @@
+{
+    "Image tag with Tailwind": {
+  "prefix": "image-tailwind",
+  "body": [
+    "<Image src=\"$1\" width=\"$2\" height=\"$3\" className=\"block md:hidden\" alt=\"$4\" />"
+  ],
+  "description": "Insert an image tag with Tailwind classes for responsiveness"
+}
+
+}
